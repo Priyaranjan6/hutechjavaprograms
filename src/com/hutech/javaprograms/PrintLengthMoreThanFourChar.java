@@ -2,7 +2,7 @@ package com.hutech.javaprograms;
 
 public class PrintLengthMoreThanFourChar {
 	
-/*	static void print() {
+	static void print() {
 		String[] s1= {"Ramesh","Aajy","Abhishek","Smita","Jay","Amit","Roja"};
 		for(int i=0;i<s1.length;i++) {
 			while(s1[i].length()>4) {
@@ -13,8 +13,7 @@ public class PrintLengthMoreThanFourChar {
 	}
 
 	public static void main(String[] args) {
-		//String[] s1= {"Ramesh","Aajy","Abhishek","Smita","Jay","Amit","Roja"};
 		print();
-	}*/
+	}
 
 }
