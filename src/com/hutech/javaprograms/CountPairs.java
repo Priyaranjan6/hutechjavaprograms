@@ -13,5 +13,6 @@ public class CountPairs {
 			}
 			System.out.println(i1[i] + "-" + i1[i + 1] + " = " + diff);
 		}
+		System.out.println("Total no of pair = " + count);
 	}
 }
